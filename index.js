@@ -1,5 +1,9 @@
-let numero1 = '30'
-numero1 = 6
-console.log(numero1)
+const numero1 = 1
+const numero2 = 2
 
-// adsñkljadsf j ñasjdfñajds kfñaslkj añlkjf añlskdfjñlkdfj añlsdjfk aslñkdjf asñlkfj asñdlfasdfkjl asdfklñj adfñlkj asñdlfjkasdfjñlk asdfñjkl dfsj
+const suma = numero1 - numero2
+console.log('la suma de los dos numero es :')
+console.log(suma)
+
+//ctrl + p 
+//ctrl + shift ( mayus) + p  
